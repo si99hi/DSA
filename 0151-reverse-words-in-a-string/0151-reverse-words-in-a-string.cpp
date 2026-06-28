@@ -2,19 +2,17 @@ class Solution {
 public:
     string reverseWords(string s) {
         string words;
-        stringstream ss(s);
         string result="";
-        while(ss>> words){
+        stringstream ss(s);
+        while(ss>>words){
             if(result==""){
                 result= words;
             }
             else{
-                result=  words + " " + result;
+                result= words+" "+ result;
             }
-
         }
         return result;
-
         
     }
-};
+}; 
