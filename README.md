@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/si99hi/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/si99hi/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/si99hi/DSA/tree/master/0344-reverse-string) |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/si99hi/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/si99hi/DSA/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
