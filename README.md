@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/si99hi/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/si99hi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/si99hi/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/si99hi/DSA/tree/master/0053-maximum-subarray) |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
