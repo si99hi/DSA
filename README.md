@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/si99hi/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
+| [1288-remove-covered-intervals](https://github.com/si99hi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/si99hi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
+| [1288-remove-covered-intervals](https://github.com/si99hi/DSA/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
 | ------- |
