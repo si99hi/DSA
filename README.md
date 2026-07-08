@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/si99hi/DSA/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,17 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/si99hi/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/si99hi/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/si99hi/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/si99hi/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/si99hi/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/si99hi/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/si99hi/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/si99hi/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
