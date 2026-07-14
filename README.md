@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/si99hi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/si99hi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
+| [3689-maximum-total-subarray-value-i](https://github.com/si99hi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/si99hi/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3689-maximum-total-subarray-value-i](https://github.com/si99hi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search Tree
 |  |
 | ------- |
