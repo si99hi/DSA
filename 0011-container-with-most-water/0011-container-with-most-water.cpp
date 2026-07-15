@@ -6,21 +6,20 @@ public:
         int maxarea=0;
 
         while(left<right){
-            int width= right-left;
-            int h= min(height[left], height[right]);
-            int area= h*width;
-            maxarea= max(area, maxarea);
+            int width= right- left;
+            int h= min(height[right], height[left]);
 
-        
-        
-        if(height[left]<height[right]){
-            left++;
-        }
-        else{
-            right--;
-        }
+            int area= h*width;
+            maxarea= max(maxarea, area);
+
+            if(height[left] < height[right]){
+                left++;
+            }
+            else{
+                right--;
+            }
         }
         return maxarea;
-
+        
     }
 };
