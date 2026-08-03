@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/si99hi/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/si99hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/si99hi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/si99hi/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/si99hi/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/si99hi/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Graph Theory
