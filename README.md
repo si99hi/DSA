@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/si99hi/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/si99hi/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/si99hi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/si99hi/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/si99hi/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
