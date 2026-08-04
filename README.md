@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/si99hi/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/si99hi/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/si99hi/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/si99hi/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/si99hi/DSA/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/si99hi/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/si99hi/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/si99hi/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
