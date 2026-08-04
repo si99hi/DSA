@@ -15,8 +15,9 @@ public:
         while(head){
             ListNode* next= head->next;
             head->next= dummy;
-            dummy = head;
-            head= next;
+            dummy= head;
+            head=next;
+            
         }
         return dummy;
         
