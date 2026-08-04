@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/si99hi/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/si99hi/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/si99hi/DSA/tree/master/0344-reverse-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/si99hi/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/si99hi/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/si99hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/si99hi/DSA/tree/master/0238-product-of-array-except-self) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/si99hi/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/si99hi/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/si99hi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/si99hi/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/si99hi/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/si99hi/DSA/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/si99hi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/si99hi/DSA/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
