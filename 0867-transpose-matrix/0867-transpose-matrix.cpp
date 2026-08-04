@@ -6,7 +6,7 @@ public:
         vector<vector<int>> ans(n, vector<int>(m));
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                ans[j][i]= matrix[i][j];
+                ans[j][i]=matrix[i][j];
             }
         }
         return ans;
