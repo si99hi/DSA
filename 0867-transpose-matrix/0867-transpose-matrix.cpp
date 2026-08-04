@@ -8,8 +8,6 @@ public:
             for(int j=0; j<n; j++){
                 ans[j][i]= matrix[i][j];
             }
-
-
         }
         return ans;
         
