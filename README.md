@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/si99hi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/si99hi/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/si99hi/DSA/tree/master/0867-transpose-matrix) |
 | [1288-remove-covered-intervals](https://github.com/si99hi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/si99hi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/si99hi/DSA/tree/master/3620-network-recovery-pathways) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/si99hi/DSA/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/si99hi/DSA/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/si99hi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/si99hi/DSA/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/si99hi/DSA/tree/master/0867-transpose-matrix) |
 ## Quicksort
 |  |
 | ------- |
