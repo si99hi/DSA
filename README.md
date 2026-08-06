@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/si99hi/DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/si99hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/si99hi/DSA/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/si99hi/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/si99hi/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/si99hi/DSA/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/si99hi/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/si99hi/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/si99hi/DSA/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/si99hi/DSA/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/si99hi/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/si99hi/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/si99hi/DSA/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/si99hi/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/si99hi/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/si99hi/DSA/tree/master/3714-longest-balanced-substring-ii) |
