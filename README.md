@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/si99hi/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/si99hi/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
