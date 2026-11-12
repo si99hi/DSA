@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/si99hi/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/si99hi/DSA/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/si99hi/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/si99hi/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/si99hi/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/si99hi/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/si99hi/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/si99hi/DSA/tree/master/0867-transpose-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/si99hi/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Quicksort
 |  |
 | ------- |
