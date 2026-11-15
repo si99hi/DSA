@@ -6,13 +6,13 @@ public:
         stringstream ss(s);
         while(ss>>words){
             if(result==""){
-                result= words;
+                result=words;
             }
             else{
-                result= words+" "+ result;
+                result= words+ " "+result;
             }
         }
         return result;
         
     }
-}; 
+};
